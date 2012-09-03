@@ -1,5 +1,5 @@
 {
-    "name": "symfony/symfony",
+    "name": "gordalina/symfony",
     "type": "library",
     "description": "The Symfony PHP framework",
     "keywords": ["framework"],
